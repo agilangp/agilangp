@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=agilangp&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=agilangp&style=flat-square&color=blue" alt="Public Views"/>
 </div>
 
 ---
@@ -51,10 +51,10 @@
   ### :fire: My Stats
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agilangp&theme=transparent&show_icons=true&rank_icon=github&card_width=200" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=agilangp&theme=transparent&show_icons=true&rank_icon=github" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agilangp&theme=transparent&layout=compact&langs_count=8&card_width=200" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agilangp&theme=transparent&layout=compact&langs_count=8&card_width=350" />
   </a>
 </div>
 
