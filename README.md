@@ -19,7 +19,6 @@
 <div id="about">
   
 - 🌍  I'm based in Magetan, Indonesia
-- 🖥️  See my portfolio at [peterparker.com](http://peterparker.com)
 - ✉️  You can contact me at [al.gilang.p@gmail.com](mailto:al.gilang.p@gmail.com)
 - 🧠  I'm learning a new JavaScript framework
 - 🤝  I'm open to collaborating on interesting JavaScript projects
